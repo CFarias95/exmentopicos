@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\examen\examen\examen\bin\Debug\netstandard2.0\examen.deps.json
+C:\Users\HP\source\repos\examen\examen\examen\bin\Debug\netstandard2.0\examen.dll
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\Views\Forms\SimpleEmailEntry.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\Views\Forms\SimpleLoginPage.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\examen.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\examen.AssemblyInfo.cs
+C:\Users\HP\source\repos\examen\examen\examen\bin\Debug\netstandard2.0\ref\examen.dll
+C:\Users\HP\source\repos\examen\examen\examen\bin\Debug\netstandard2.0\examen.pdb
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\examen.dll
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\ref\examen.dll
+C:\Users\HP\source\repos\examen\examen\examen\obj\Debug\netstandard2.0\examen.pdb
